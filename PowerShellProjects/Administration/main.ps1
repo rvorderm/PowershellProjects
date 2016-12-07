@@ -1,0 +1,1 @@
+.\Set-ADAccountasLocalAdministrator.ps1 -Computer 'lkwdvsvexp1,lkwdvsvexp2,dbkvsvexp1,dbkvsvexp2' -Trustee tyler\ryan.lewis
